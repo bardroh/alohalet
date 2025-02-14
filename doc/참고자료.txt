@@ -1,0 +1,21 @@
+adeept 로봇암, 아두이노 보드. PySerial로 콘트롤(bittle과 같음). 집게 부분이 좀 마음에 들지 않음
+
+https://www.devicemart.co.kr/goods/view?no=15329697
+
+라즈베리 카메라 모듈
+
+https://www.devicemart.co.kr/goods/view?no=14917048&srsltid=AfmBOop-LQE2cW4WN0TK8G9ji7YmTI4YQJ93YG2NhGBU9Fjheo9ttbZd
+
+라즈베리와 아두이노를 시리얼로 연결하고, 카메라를 보면서 작업을 진행. 알로하 같은 IL.
+
+USB 시리얼 연결
+
+https://throwexception.tistory.com/920
+
+플스패드 연결
+
+https://jasmine125.tistory.com/1014
+
+ROS2
+
+https://blog.naver.com/PostView.naver?blogId=rich0812&logNo=223206252453&categoryNo=1&parentCategoryNo=&from=thumbnailList
